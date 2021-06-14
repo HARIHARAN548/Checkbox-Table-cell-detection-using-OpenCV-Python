@@ -1,0 +1,2 @@
+# Checkbox-Table-cell-detection-using-OpenCV-Python
+To extract relevant information from unstructured data sources like OMR sheets, scanned invoices, bills, etc into structured data, using Computer Vision and Natural Language Processing. the primary steps we are dependent on are Optical Character Recognition and Document Layout Analysis. Optical Character Recognition (OCR) is for detecting the text from the image where we try to get additional metadata from the documents like identifying headers, paragraphs, lines, words, tables, key-value pairs, etc.
